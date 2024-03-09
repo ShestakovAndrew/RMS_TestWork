@@ -9,4 +9,8 @@
     <Compile Include="Program.fs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Akka" Version="1.5.17.1" />
+  </ItemGroup>
+
 </Project>
